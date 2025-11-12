@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <name>Sospecha de área minada</name>
+      <description>Evento: Incidente
+Fecha: 1990-01-10 00:00:00
+Departamento: SANTANDER
+Municipio: BARRANCABERMEJA
+Presunto actor responsable: FARC
+Descripción: Varias minas sin desactivar permanecen en el sector..                           10-febrero-2014. Se realizó actualización a las coordenadas de la cabecera municipal a escala 1:100.000 fuente IGAC.
+Estatus: Cerrado
+Cantidad de artefactos: </description>
+      <Point>
+        <coordinates>-73.855997,7.061193,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sospecha de área minada</name>
+      <description>Evento: Incidente
+Fecha: 1990-01-10 00:00:00
+Departamento: NORTE DE SANTANDER
+Municipio: ÁBREGO
+Presunto actor responsable: ELN
+Descripción: Los técnicos de Isa iniciaron una inspección de seguridad apoyados por el grupo Marte de antiexplosivos de la Policía, en la zona rural de ¦brego (Norte de Santander), donde tres torres de energía permanecen averiadas por un ataque del Eln. Isa iniciará la reparación de las torres de alta tensión cuando su equipo determine que el lugar está libre de minas &amp;#x27;quiebrapatas&amp;#x27;
+Estatus: Cerrado
+Cantidad de artefactos: </description>
+      <Point>
+        <coordinates>-73.224066,8.083112,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Incautaciones</name>
+      <description>Evento: Incidente
+Fecha: 1990-01-10 00:00:00
+Departamento: ANTIOQUIA
+Municipio: YONDÓ
+Presunto actor responsable: ELN
+Descripción: San Pacho y Alto Amará.                           10-febrero-2014. Se realizó actualización a las coordenadas de la cabecera municipal a escala 1:100.000 fuente IGAC.
+Estatus: Cerrado
+Cantidad de artefactos: </description>
+      <Point>
+        <coordinates>-73.909682,7.006776,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Desminado en el marco de operaciones</name>
+      <description>Evento: Incidente
+Fecha: 1990-01-10 00:00:00
+Departamento: CUNDINAMARCA
+Municipio: GACHETÁ
+Presunto actor responsable: FARC
+Descripción: 05-MAR-02. GACHETç (Cundinamarca). En la vereda Salinas, en enfrentamiento entre unidades del EjZrcito contra subversivos del frente LIV de las FARC, dieron de baja 4 insurgentes, capturaron 2 m+s, e  incautaron 7 fusiles y desactivaron un campo minado; as&amp;#x27; mismo rescataron al biologo HƒCTOR CAMILO LîPEZ CASTRO C.C. 79.920.458, secuestrado el 15-FEB-02, en el sitio El Sisga, en SesquilZ. Ktronix
+Estatus: Cerrado
+Cantidad de artefactos: 1.0</description>
+      <Point>
+        <coordinates>-73.65,4.85,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Desminado en el marco de operaciones</name>
+      <description>Evento: Incidente
+Fecha: 1990-01-10 00:00:00
+Departamento: CAQUETA
+Municipio: FLORENCIA
+Presunto actor responsable: FARC
+Descripción: Militares del batallón de Ingenieros Liborio Mejía, desactivaron varios campos minados, que guerrilleros del frente 13 de las Farc, instalaron en la vía que comunica a Florencia con San Vicente. Otras dos cargas explosivos y tres cilindros bomba  fueron desactivados por efectivos de la XII Brigada del Ejército.
+Estatus: Cerrado
+Cantidad de artefactos: 1.0</description>
+      <Point>
+        <coordinates>-75.617827,1.618746,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

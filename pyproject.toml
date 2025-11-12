@@ -1,0 +1,69 @@
+[tool.poetry]
+name = "safestep"
+version = "0.1"
+description = ""
+authors = ["Kamran Ericson", "Aaryan Joshi", "Samiksha Anand", "Tsi Dawson"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+yfinance = "*"
+requests = "*"
+python-dotenv = "*"
+joblib = "*"
+unidecode = "*"
+pyqt6 = "*"
+qdarkstyle = "^3.2.3"
+zipline-reloaded = {git = "https://github.com/stefan-jansen/zipline-reloaded.git"}
+tqdm = "^4.67.1"
+ta-lib = "^0.6.7"
+plotly = "^6.3.0"
+vectorbt = "^0.28.1"
+ta = "^0.11.0"
+vulture = "^2.14"
+omegaconf = "^2.3.0"
+pyqtgraph = "^0.13.7"
+qasync = "^0.28.0"
+pyright = "^1.1.406"
+pylint = "^4.0.1"
+ruff = "^0.14.1"
+mypy = "^1.18.2"
+pandas-stubs = "^2.3.2.250926"
+types-pyyaml = "^6.0.12.20250915"
+scipy-stubs = "^1.16.2.4"
+types-psutil = "^7.0.0.20251001"
+simplekml = "^1.3.6"
+
+[tool.poetry.group.dev.dependencies]
+jupyterlab = "*"
+ipykernel = "*"
+ipywidgets = "*"
+jupyter_nbextensions_configurator = "*"
+ipympl = "*"
+selenium = "*"
+streamlit = "*"
+empyrical = "*"
+pandas = "*"
+matplotlib = "*"
+seaborn = "*"
+scikit-learn = "*"
+scipy = "*"
+statsmodels = "*"
+numpy = "*"
+ib-insync = "*"
+polygon-api-client = "*"
+
+[tool.mypy]
+python_version = "3.12"
+strict = true
+warn_unused_ignores = true
+warn_return_any = true
+disallow_untyped_calls = true
+disallow_untyped_defs = true
+disallow_incomplete_defs = true
+disallow_untyped_decorators = true
+check_untyped_defs = true
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
